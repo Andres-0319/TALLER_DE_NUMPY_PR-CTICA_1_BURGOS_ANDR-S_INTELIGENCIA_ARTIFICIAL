@@ -1,1 +1,1 @@
-Este es un trabajo de NumPy de la asignatura de Inteligencia Artificial, Desarrollado por el estudiante Jorge Andrés Burgos Galarza.
+Este es un trabajo de NumPy de la asignatura de Inteligencia Artificial, Desarrollado por el estudiante Jorge Andrés Burgos Galarza. En el archivo con nombre de "TALLER_DE_NUMPY_PRÁCTICA_1_BURGOS_ANDRÉS.ipynb", se encuentra el desarrollo completo del trabajo correspondiente en el entorno de Google Colab.
